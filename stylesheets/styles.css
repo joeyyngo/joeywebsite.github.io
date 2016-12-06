@@ -34,6 +34,14 @@ body {
 	margin: 0;
 	line-height: 1.8em;
 	-webkit-font-smoothing: antialiased;
+	
+}
+
+#right{
+	width: 45%;
+	float: right;
+}
+
 
 	table {
 	border: #000000 1px solid;
@@ -43,8 +51,7 @@ body {
 	border-bottom-right-radius: 15px;
 	border-bottom-left-radius: 15px;
 }
-	
-}
+
 
 h1, h2, h3, h4, h5, h6 {
   color:#232323;
